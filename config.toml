@@ -2,14 +2,14 @@
 base_url = "https://techmercenaries.com"
 
 # The site title and description; used in feeds by default.
-title = "Blow"
-description = "A Zola theme made with tailwindcss"
+title = "Tech Mercenaries"
+description = "Solving Technology Solutions"
 
 # The default language; used in feeds.
 default_language = "en"
 
 # For overriding the default output directory `public`, set it to another value (e.g.: "docs")
-output_dir = "public"
+# output_dir = "public"
 
 # When set to "true", the Sass files in the `sass` directory in the site root are compiled.
 # Sass files in theme directories are always compiled.
